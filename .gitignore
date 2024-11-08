@@ -1,0 +1,8 @@
+node_modules
+/.svelte-kit
+/.vscode
+/.VSCodeCounter
+/build
+/drizzle
+/supabase
+.env
